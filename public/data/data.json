@@ -1,0 +1,92 @@
+{
+  "aboutitem": [
+    {
+      "id": "1",
+      "title": "Home",
+      "href": "/"
+    },
+    {
+      "id": "2",
+      "title": "About Us",
+      "href": "/about"
+    },
+    {
+      "id": "3",
+      "title": "Call Us",
+      "href": "/about/call"
+    },
+    {
+      "id": "4",
+      "title": "Work Hours Us",
+      "href": "/about/workHours"
+    }
+  ],
+
+  "mainCourse": [
+    {
+      "id": "1",
+      "title": "Kebab",
+      "src": "/images/mainCourse/kebab.jpg",
+      "href": "/mainCourse/kebab"
+    },
+    {
+      "id": "2",
+      "title": "Pizza",
+      "src": "/images/mainCourse/pizza.jpg",
+      "href": "/mainCourse/pizza"
+    },
+
+    {
+      "id": "3",
+      "title": "Ghorme Sabzi",
+      "src": "/images/mainCourse/ghormeSabzi.jpg",
+      "href": "/mainCourse/ghormeSabzi"
+    },
+    {
+      "id": "4",
+      "title": "Rice",
+      "src": "/images/mainCourse/rice.jpg",
+      "href": "/mainCourse/rice"
+    }
+  ],
+  "appetizer": [
+    {
+      "id": "1",
+      "title": "Jelly",
+      "href": "/appetizer/jelly",
+      "description": "در این بخش هر انچه در مورد کناکتورها بخواهید هست",
+      "src": "/images/appetizer/jelly.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Salad",
+      "href": "/appetizer/salad",
+      "description": "در این بخش هر انچه در مورد اینورترها بخواهید هست",
+      "src": "/images/appetizer/salad.jpg"
+    },
+
+    {
+      "id": "3",
+      "title": "Etc",
+      "href": "/appetizer/etc",
+      "description": "در این بخش هر انچه در دسته های دیگر جا نگرفت قرار دارد",
+      "src": "/images/appetizer/favicon.jpg"
+    }
+  ],
+  "beverages": [
+    {
+      "id": "1",
+      "title": "Non Alcoholic Drink",
+      "href": "/beverages/noneAlcoholic",
+      "description": "All alcoholic drinks are available in this section.",
+      "src": "/images/beverages/noneAlcoholic.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Alcoholic Drink",
+      "href": "/beverages/alcoholic",
+      "description": "All non-alcoholic drinks are available in this section.",
+      "src": "/images/beverages/alcoholic.jpg"
+    }
+  ]
+}
